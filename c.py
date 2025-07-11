@@ -1,5 +1,5 @@
 import cv2
-import mediapipe as mpq
+import mediapipe as mp
 import numpy as np
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 from comtypes import CLSCTX_ALL
